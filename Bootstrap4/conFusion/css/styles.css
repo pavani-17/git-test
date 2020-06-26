@@ -37,3 +37,11 @@ address{
 .navbar-dark {
     background-color: #512DA8;
 }
+
+.bg-yellow {
+    background-color: #ffcc00;    ;
+}
+
+input[type="radio"] {
+    margin: 0 5px 0 10px;
+}
